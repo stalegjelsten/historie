@@ -1,13 +1,9 @@
 ---
 date: 2015-08-24
 modified: 2015-12-01
-source: <https://fronter.com/uia/links/files.phtml/55dadd574a5e3.1608363312$743807565$/Fagstoff/Oppgaver+2015>
-
-
 tags: 
 eksamensoppgave eksamen hi100
   - historie
-
 ---
 
 # Eksamensoppgaver 2015
