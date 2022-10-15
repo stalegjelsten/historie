@@ -1,7 +1,7 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 // import cytoscape from 'cytoscape';
 // import cola from 'cytoscape-cola';
-import {useRouter} from 'next/router'
+import { useRouter } from 'next/router'
 
 import CytoscapeComponent from "react-cytoscapejs";
 
@@ -19,7 +19,7 @@ const layout = {
     //sweep: undefined, // how many radians should be between the first and last node (defaults to full circle)
     clockwise: true, // whether the layout should go clockwise (true) or counterclockwise/anticlockwise (false)
     sort: undefined, // a sorting function to order the nodes; e.g. function(a, b){ return a.data('weight') - b.data('weight') }
-    animate: false, // whether to transition the node positions
+    animate: true, // whether to transition the node positions
     animationDuration: 500, // duration of animation in ms if enabled
     animationEasing: undefined, // easing of animation if enabled
     //animateFilter: function ( node, i ){ return true; }, // a function that determines whether the node should be animated.  All nodes animated by default on animate enabled.  Non-animated nodes are positioned immediately when the layout starts
@@ -37,25 +37,25 @@ const styleSheet = [{
         "font-size": "12px",
         "width": "20px",
         "height": "20px",
-        "label":"data(label)"
+        "label": "data(label)"
     }
 }, {
     selector: "label",
-    style: {"font-size": "12px"},
+    style: { "font-size": "12px" },
 },
-    {
-        selector: 'edge',
-        style: {
-            'width': 2,
-            "height": 200,
-            'line-color': '#b2b2b2',
-            'target-arrow-color': '#ccc',
-            // 'target-arrow-shape': 'triangle',
-            'curve-style': 'straight'
-        }
-    }];
+{
+    selector: 'edge',
+    style: {
+        'width': 2,
+        "height": 200,
+        'line-color': '#b2b2b2',
+        'target-arrow-color': '#ccc',
+        // 'target-arrow-shape': 'triangle',
+        'curve-style': 'straight'
+    }
+}];
 
-function Graph({graph}) {
+function Graph({ graph }) {
 
     const [width, setWidth] = useState("300px");
     const [height, setHeight] = useState("300px");
@@ -77,13 +77,13 @@ function Graph({graph}) {
                     style={{
                         border: "1px solid #ddd",
                         backgroundColor: "#f5f6fe",
-                        borderRadius:"8px"
+                        borderRadius: "8px"
                     }}
                 >
                     <CytoscapeComponent
                         elements={CytoscapeComponent.normalizeElements(graphData)}
                         // pan={{ x: 200, y: 200 }}
-                        style={{width: width, height: height}}
+                        style={{ width: width, height: height }}
                         zoomingEnabled={true}
                         maxZoom={2}
                         minZoom={0.5}

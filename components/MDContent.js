@@ -1,12 +1,12 @@
 import React from 'react';
 import Alert from '@mui/material/Alert';
 import AlertTitle from '@mui/material/AlertTitle';
-import {useRouter} from 'next/router'
+import { useRouter } from 'next/router'
 
-function BackLinks({linkList}) {
+function BackLinks({ linkList }) {
 
     return (<div className="note-footer">
-            <h3 className="backlink-heading">Link to this note</h3>
+        <h3 className="backlink-heading">Link to this note</h3>
         {(linkList != null && linkList.length > 0)
             ?
             <>
@@ -28,7 +28,7 @@ function BackLinks({linkList}) {
     </div>);
 }
 
-function MDContent({content, backLinks, handleOpenNewContent}) {
+function MDContent({ content, backLinks, handleOpenNewContent }) {
 
     function handleInternalLinkClick() {
         //Processing fetching
@@ -41,18 +41,13 @@ function MDContent({content, backLinks, handleOpenNewContent}) {
     return (
 
         <div className="markdown-rendered">
-            <Alert severity="info">
-                <AlertTitle>Want to know more?</AlertTitle>
-                🌱 <strong>Follow</strong> or <strong>DM</strong> me on Twitter at <span><a
-                href="https://twitter.com/tuancm">@tuancm</a></span>
-            </Alert>
-            <div dangerouslySetInnerHTML={{__html: content}}/>
+            <div dangerouslySetInnerHTML={{ __html: content }} />
             {/*<button onClick={handleInternalLinkClick}>Click me</button>*/}
             {/*<hr/>*/}
             <div>
-                <BackLinks linkList={backLinks}/>
+                <BackLinks linkList={backLinks} />
             </div>
-            <hr/>
+            <hr />
             <footer>
                 <p>Powered by  <a href="https://github.com/TuanManhCao/digital-garden">Mind Stone</a>, © 2022</p>
             </footer>
