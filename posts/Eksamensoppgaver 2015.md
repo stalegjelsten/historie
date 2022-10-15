@@ -2,7 +2,6 @@
 date: 2015-08-24
 modified: 2015-12-01
 tags: 
-eksamensoppgave eksamen hi100
   - historie
 ---
 
