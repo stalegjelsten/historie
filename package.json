@@ -39,6 +39,7 @@
     "remark-external-links": "^8.0.0",
     "remark-highlight.js": "^6.0.0",
     "remark-html": "^13.0.1",
+    "remark-gfm": "latest",
     "remark-parse": "^9.0.0",
     "remark-preset-lint-markdown-style-guide": "^4.0.0",
     "remark-rehype": "^10.1.0",
