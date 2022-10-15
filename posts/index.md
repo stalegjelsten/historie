@@ -55,3 +55,21 @@ This an early version of MindStone, which mean there are bugs and issues. Below 
 - Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
 - Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
 - Transclusion is not working yet.
+
+- [[De første menneskene]]
+- [[Jeger- og sankersamfunnet]]
+- [[De første sivilisasjoner]]
+- [[Antikken]]
+- [[Tidlig middelalder]]
+- [[Vikingtiden]]
+- [[Senmiddelalder]]
+- [[Renessansen]]
+- [[Opplysningstiden]]
+- [[Den industrielle revolusjon]]
+- [[Revolusjonstid]]
+- [[Imperialismen]]
+- [[Første verdenskrig]]
+- [[Mellomkrigstida]]
+- [[Andre verdenskrig]]
+- [[Kald krig]]
+- [[Postmodernismen]]
