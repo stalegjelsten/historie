@@ -11,15 +11,15 @@ Denne boka følger menneskeapers og homo sapiens utvikling gjennom den [[Den kog
 Harari argumenterer for at homo sapiens levde friere liv med kortere arbeidsdager og mer likestilling før Jordbruksrevolusjonen. 
 
 ## Del 1 Den kognitive revolusjonen
-Harari (se [[Den kognitive revolusjonen]] skjedde for 70 000–30 000 år siden. Ifølge [[Sapiens av Yuval Noah Harari]]) er vi ikke sikre på hva som var årsakene til revolusjonen, men flere forskere mener det er tilfeldige mutasjoner som «rammet» homo sapiens, men ikke neandertalere eller andre menneskearter.
+[[Den kognitive revolusjonen]] skjedde for 70 000–30 000 år siden. Ifølge Harari er vi ikke sikre på hva som var årsakene til revolusjonen, men flere forskere mener det er tilfeldige mutasjoner som «rammet» homo sapiens, men ikke neandertalere eller andre menneskearter.
 
 ## Del 2
 
 ### Kapittel 8 here is no justice in history
 Kvinner har helt siden [[Jordbruksrevolusjonen]] vært undertrykt i den eurasiske kulturen. 
 
-5. mosebok 22,28–29
->     Om en mann treffer en jente som er jomfru og ikke er lovet bort, og han forgriper seg på henne og ligger med henne, og de blir oppdaget, da skal mannen som lå med jenta, betale hennes far femti sjekel sølv. Hun skal være hans kone fordi han krenket henne, og han får ikke skille seg fra henne så lenge han lever.
+> Om en mann treffer en jente som er jomfru og ikke er lovet bort, og han forgriper seg på henne og ligger med henne, og de blir oppdaget, da skal mannen som lå med jenta, betale hennes far femti sjekel sølv. Hun skal være hans kone fordi han krenket henne, og han får ikke skille seg fra henne så lenge han lever.
+> 5. mosebok 22,28–29
 
 Vi finner patriaki i nesten alle sivilisasjoner (se [[De første sivilisasjoner]]). 
 
@@ -63,6 +63,7 @@ Harari gir to forklaringer. For det første er krigføring blitt fryktelig dyrt.
 > We are witnessing the formation of a world empire
 
 ### Kapittel 19 – lykke
+
 > Since humans generally use their capabilities to alleviate miseries and fulfil aspirations, it follows that we must be happier than our medieval ancestors, and they must have been happier than Stone Age hunter-gatherers. 
 > 
 > But this progressive account is unconvincing. As we have seen, new aptitudes, behaviours and skills do not necessarily make for a better life. When humans learned to farm in the Agricultural Revolution, their collective power to shape their environment increased, but the lot of many individual humans grew harsher. Peasants had to work harder than foragers to eke out less varied and nutritious food, and they were far more exposed to disease and exploitation.
